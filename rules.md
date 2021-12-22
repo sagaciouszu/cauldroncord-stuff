@@ -40,13 +40,11 @@ Welcome to the official DankPods Community Discord guild, a place to discuss Dan
     Impersonating people, including a moderator or DankPods, is not allowed.
 
 
-
-**Punishment Guidance**  
-    Generally, we operate on a 4-strikes-you're-out system, starting with a warning, mute (length up to mod discretion), kick, and finally a temporary or permanent ban.
+**Punishment Guidance**
+    Generally, we operate on a 3-strikes-you're-out system, starting with a warning, mute (length up to mod discretion) and finally a temporary or permanent ban.
 However, this guidance might be broken according to the acting moderator. This means that, for example, if you clearly are joining just to troll, or are posting slurs/NSFW content, we may ban you on the spot, or, in the case of minimal rule breakage, we may give a non-strike verbal warning.
 
-Automoderator warnings (e.g posting a blacklisted word) don't count as strikes, neither do "joke" infractions (e.g asked to be muted/warned). Normally, if you get a legitimate strike, we will append `(X/4)` to the warn/mute/kick/ban message. Strikes may also be removed at mod discretion for continued good behaviour.
-
+Automoderator warnings (e.g posting a blacklisted word) don't count as strikes, neither do "joke" infractions (e.g asked to be muted/warned). Normally, if you get a legitimate strike, we will append `(X/3)` to the infraction message. Strikes may also be removed at mod discretion for continued good behaviour.
 
 
 **Credits**  
@@ -55,4 +53,4 @@ These rules have been based very heavily on /r/iPod's rules, written by <@490609
 **Disclaimer**  
 Messages and other actions are logged by <@851055505724145684> in this guild. By sending a message, changing your nickname, or otherwise interacting in this guild, you consent to this. If you want a logged action deleted or more details, please contact a member of <@&821195811525885982>.
 
-*Last updated 2021-10-20T02:37 (UTC+2)*
+*Last updated 2021-12-22T02:36 (UTC)*
