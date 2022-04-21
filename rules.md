@@ -1,9 +1,8 @@
 **Welcome to the official The Sex Cauldron Community Discord**
-----
 A place to discuss The Sex Cauldron prank calls, other shows and join our Destiny 2 Clan. We hope you'll enjoy your stay here, but first off, we need you to read and abide by the rules listed below, which you will have to agree to before seeing any of the rest of the Discord. They're simple and easy to understand. If any of these bothers you, it may not be the place for you.
 
 **1. Respect**  
-    Don't be racist, homophobic, transphobic, sexist or otherwise engage in hate speech. You can curse, but just don't be a jerk to others. This includes offensive memes. Just respect that everyone here is here for prank calls and fun. There are other places to post it. 
+    Don't be racist, homophobic, transphobic, sexist or otherwise engage in hate speech. You can curse, but just don't be a jerk to others. This includes offensive memes. Just respect that everyone here is here for prank calls and fun.
 
 **2. Be mature**  
     Please act mature in any discussions here. Don't spam, or clog general up with unnecessary messages. We don't take kindly to folks that don't take kindly to spam rules.
@@ -15,16 +14,16 @@ A place to discuss The Sex Cauldron prank calls, other shows and join our Destin
     If you think a message might be grossly offensive to others, just don't send it. Any drama and slap fighting will be highlighted, and you will be pointed and laughed at. Possibly banned depending on severity. Don't push your luck.
 
 **5. Keep stuff to the correct channels**  
-    For example, keep memes to #imageboard. It's fine if you post something better fitting to another channel to #chatboard, but don't clog up the channel. Take it to the relevant one or #shareboard. Also, keep #mental-health for serious discussion, and treat it as such. We at the Sex Cauldron want to remove the stigma from mental illness and help people to not feel so alone or helpless in this post-COVID world.
+    For example, keep memes to #imageboard. It's fine if you post something better fitting to another channel to #chatboard. Keep #mental-health for serious discussion, and treat it as such. We at the Sex Cauldron want to remove the stigma from mental illness and help people to not feel so alone or helpless in this post-COVID world.
 
 **6. Follow Discord TOS**  
     Every member here needs to follow the Discord Terms of Service, for example, their age requirement. You are not exempt from this because you've been around for a while or contribute financially. Needs of the many and all that. (<https://discord.com/terms>)
 
 **7. NSFW Content**  
-    Keep Not Safe For Work content out of this guild. There may be underage people here, and plus, there are enough other servers out there for you to not have to bring it here.
+    Keep Not Safe For Work content out of this guild. There may be underage people here, and plus, there's enough places out there already.
 
 **8. Patreon Content**  
-    We don't allow Patreon pay-walled content to be posted in this guild in any form and will ban you on sight and inform the creator, don't be a dick. Don't post links to it or direct files. <@163638850906882048> grew up with piracy on floppies and cds. People still deserve to get paid for their work, especially the small-time creators. 
+    We don't allow Patreon pay-walled content to be posted in this guild in any form and will ban you on sight and inform the creator, don't be a dick. 
 
 **9. Self-promotion**  
     Don't advertise your own content here without prior authorisation. This includes streams, YT channels and Discord guild invites. This rule may not be enforced if the content is relevant to the discussion. If you're an up-and-coming host or artist or whatever, just talk to <@163638850906882048> first. That's all we ask.
@@ -36,13 +35,13 @@ A place to discuss The Sex Cauldron prank calls, other shows and join our Destin
     Impersonating people, including a janitor/moderator/robot/admin of The Sex Cauldron, is not allowed. Instant, non-revocable ban.
 
 **Punishment Guidance**
-    Generally, we operate on a 3-strikes-you're-out system, starting with a warning, mute (length up to mod discretion) and finally a temporary or permanent ban.
-However, this guidance might be broken according to the acting moderator. This means that, for example, if you clearly are joining just to troll, or are posting slurs/NSFW content, we may ban you on the spot, or, in the case of minimal rule breakage, we may give a non-strike verbal warning.
+    Generally, we operate on a 3-strikes-you're-out system, starting with a warning, mute (length to mod discretion), finally a temporary/permanent ban.
+However, this guidance might be broken according to the acting moderator. For example, if you clearly are joining just to troll, or are posting slurs/NSFW content, we may ban you on the spot, or, in the case of minimal rule breakage, we may give a non-strike verbal warning.
 
 **Credits**  
-These rules have been based very heavily on Dankpod's Discord server rules <https://github.com/lexd0g/dankcord-stuff> which in turn derived them from /r/iPod's rules, written by <@490609510734364692> and found at discord.gg/ipod, which in turn have been based off the GNU/FSF IRC rules, which can be found at <https://www.gnu.org/server/irc-rules.en.html>. It's forks all the way down.
+These rules have been based very heavily on Dankpod's Discord server rules <https://github.com/lexd0g/dankcord-stuff> which were derived from /r/iPod's rules, written by <@490609510734364692> and discord.gg/ipod, which have been based off the GNU/FSF IRC rules <https://www.gnu.org/server/irc-rules.en.html>
 
 **Disclaimer**  
 By sending a message, changing your nickname, or otherwise interacting in this guild, you consent to this. If you want a logged action deleted or more details, please contact a member of <@&890360510506205234>.
 
-*Last updated 2022-04-21 1:56AM (GMT-5/EST)*
+*Last updated 2022-04-21 2:06AM (GMT-5/EST)*
